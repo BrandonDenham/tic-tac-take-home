@@ -10,7 +10,7 @@ Your Tic-Tac-Toe application should meet the following core requirements:
 
 ### 1. Multiplayer Functionality
 
-* **Real-time Interaction:** Users should be able to play against each other from different computers or devices.
+* **Real-time Interaction:** Users should be able to play against each other from different browser windows (can just be run over localhost).
 * **Player Identification:** Players should be distinguishable (e.g., "Player X" and "Player O").
 
 ### 2. Front-End
