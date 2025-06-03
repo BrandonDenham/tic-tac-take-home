@@ -15,9 +15,11 @@ Your Tic-Tac-Toe application should meet the following core requirements:
 
 ### 2. Front-End
 
-* **Interactive Game Board:** A clear and intuitive visual representation of the Tic-Tac-Toe board.
+* **Interactive Game Board:** A visual representation of the Tic-Tac-Toe board.  No need to be too fancy, below is an example from google, it doesn't have to look identical.
 * **Game State Display:** Clearly show whose turn it is, game outcomes (win, lose, draw), and any relevant messages to the players.
 * **Technology Choice:** You have the freedom to choose your preferred front-end framework/library (e.g., React, Angular, Vue.js, vanilla JavaScript).
+  
+![image](https://github.com/user-attachments/assets/cd9eff05-ad9a-4ed0-8305-b40cc26355ce)
 
 ### 3. Back-End
 
